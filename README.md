@@ -1,2 +1,2 @@
 # ML
-ML lab for lpnu
+ML labs for lpnu
